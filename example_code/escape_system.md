@@ -26,9 +26,10 @@
 ---
 ## 前提コマンド
 
-```- scoreboard objective add exitpt dummy
-- scoreboard objective add lapis duwwy
-- scoreboard objective add diamond dummy
-- scoreboard objective add coal dummy
-- scoreboard objective add emerald dummy
-- scoreboard objective add gold dummy```
+```scoreboard objective add exitpt dummy
+scoreboard objective add lapis duwwy
+scoreboard objective add diamond dummy
+scoreboard objective add coal dummy
+scoreboard objective add emerald dummy
+scoreboard objective add gold dummy
+```
