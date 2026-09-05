@@ -3,6 +3,7 @@
 - 簡単に作れる
 - ユーザーからして分かりやすく
 - ランダム性を作る 
+---
 ことを意識している。
 脱出可能地点に10カウント滞在することでロビーに戻りアイテムを売却したりアイテムを購入、または鑑定を行い次の探索に備えさせる。
 
@@ -24,9 +25,10 @@
 > どの脱出可能地点にも滞在していないが、カウントが1以上ある場合15tick毎にカウントを1減らす。
 ---
 ## 前提コマンド
-- scoreboard objective add exitpt dummy
+
+```- scoreboard objective add exitpt dummy
 - scoreboard objective add lapis duwwy
 - scoreboard objective add diamond dummy
 - scoreboard objective add coal dummy
 - scoreboard objective add emerald dummy
-- scoreboard objective add gold dummy
+- scoreboard objective add gold dummy```
